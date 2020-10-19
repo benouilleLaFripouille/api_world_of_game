@@ -1,0 +1,21 @@
+{
+    "surname": "sab03",
+    "firstName": "sab03",
+    "lastName": "sab03",
+    "email": "sab03",
+    "phone": "sab03",
+    "adress": "sab03",
+    "city": "sab03",
+    "zip": "sab03",
+    "password": "sab03"
+}
+/*
+path: /login?email=sab02&password=sab02
+method: GET
+controller: Wog\Controler\Api\LoginController
+action: login
+*/
+{
+    "email": "UserMail04",
+    "password": "UserPassword04"
+}

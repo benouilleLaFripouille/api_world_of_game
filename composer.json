@@ -1,0 +1,12 @@
+{
+    "name": "administrateur/words-of-game-api",
+    "require": {
+      "ext-pdo": "*",
+      "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wog\\": "src/"
+        }
+    }
+}
